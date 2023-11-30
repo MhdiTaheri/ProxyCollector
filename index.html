@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proxy List</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #222;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: #333;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+            animation: highlight 3s infinite alternate;
+        }
+
+        .proxy-box {
+            background-color: #444;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease-in-out;
+            margin-bottom: 20px;
+            color: #000; /* Text color set to black */
+        }
+
+        .proxy-box:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .proxy-link {
+            word-break: break-all;
+            color: #000; /* Text color set to black */
+        }
+
+        .proxy-link:hover {
+            text-decoration: none;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+        @keyframes highlight {
+            from {
+                box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+            }
+
+            to {
+                box-shadow: 0px 0px 20px 10px rgba(255, 255, 255, 0.3);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 class="text-center mb-4">Proxy List</h1>
+
+        <div id="proxyList" class="row">
+            <!-- Proxies will be displayed here -->
+        </div>
+
+        <button class="btn btn-primary btn-block mt-3" onclick="copyProxies()">Copy Proxies</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('proxy.txt')
+                .then(response => response.text())
+                .then(text => {
+                    const proxies = text.split('\n');
+                    const proxyList = document.getElementById('proxyList');
+                    proxies.forEach(proxy => {
+                        if (proxy.trim() !== '') {
+                            const proxyBox = document.createElement('div');
+                            proxyBox.className = 'col-md-6 proxy-box mb-3';
+                            proxyBox.style.color = '#000'; /* Text color set to black */
+
+                            const proxyLink = document.createElement('a');
+                            proxyLink.href = proxy;
+                            proxyLink.className = 'btn btn-light d-block text-start proxy-link';
+                            proxyLink.textContent = proxy;
+
+                            const copyButton = document.createElement('button');
+                            copyButton.className = 'btn btn-primary mt-2';
+                            copyButton.textContent = 'Copy';
+                            copyButton.onclick = function () {
+                                navigator.clipboard.writeText(proxy)
+                                    .then(() => {
+                                        showAlert('Proxy copied to clipboard!', 'success');
+                                    })
+                                    .catch(error => {
+                                        console.error('Error copying proxy:', error);
+                                        showAlert('Failed to copy proxy. Please try again.', 'error');
+                                    });
+                            };
+
+                            proxyBox.appendChild(proxyLink);
+                            proxyBox.appendChild(copyButton);
+                            proxyList.appendChild(proxyBox);
+                        }
+                    });
+                })
+                .catch(error => console.error('Error fetching proxies:', error));
+        });
+
+        function copyProxies() {
+            const proxies = document.querySelectorAll('.proxy-link');
+            let proxiesText = '';
+
+            proxies.forEach(proxy => {
+                proxiesText += proxy.href + '\n';
+            });
+
+            const textArea = document.createElement('textarea');
+            textArea.value = proxiesText.trim();
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+
+            showAlert('Proxies copied to clipboard!', 'success');
+        }
+
+        function showAlert(message, icon) {
+            Swal.fire({
+                icon: icon,
+                title: message,
+                showConfirmButton: false,
+                timer: 1500,
+                timerProgressBar: true,
+                toast: true,
+                position: 'top-end',
+                background: '#333',
+                iconColor: '#fff',
+                customClass: {
+                    popup: 'colored-toast'
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
