@@ -46,6 +46,7 @@ if __name__ == "__main__":
         "https://t.me/s/proxyforopeta",
         "https://t.me/s/IRN_Proxy",
         "https://t.me/s/MProxy_ir",
+        "https://t.me/s/ProxyHagh",
         "https://t.me/s/PyroProxy"
     ]
 
