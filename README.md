@@ -32,6 +32,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Proxy Page
 
+| Proxy Page |
+|------------|
+| [Proxy Page](https://mhditaheri.github.io/ProxyCollector/) |
+
 Explore the proxies:
 - [Proxy List](proxy.txt)
 
