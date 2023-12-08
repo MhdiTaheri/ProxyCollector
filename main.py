@@ -41,6 +41,7 @@ if __name__ == "__main__":
 
     telegram_urls = [
         "https://t.me/s/iporoto",
+        "https://t.me/s/HiProxy",
         "https://t.me/s/iproxy",
         "https://t.me/s/iRoProxy",
         "https://t.me/s/proxyforopeta",
