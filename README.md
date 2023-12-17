@@ -22,7 +22,7 @@ The script uses `requests` to retrieve proxies from JSON URLs and `BeautifulSoup
 
 1. Clone this repository.
 2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the Python script: `python fetch_proxies.py`
+3. Run the Python script: `python main.py`
 
 ## Contributing
 
