@@ -1,7 +1,4 @@
-https://t.me/proxy?server=65.109.92.173&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=167.235.7.182&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=65.109.92.173&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=167.235.7.182&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=148.251.250.63&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==&@iMTProto|🇩🇪
 https://t.me/proxy?server=65.109.92.173&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=167.235.7.182&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.92.173&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
@@ -27,18 +24,11 @@ https://t.me/proxy?server=46.4.96.48&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJ
 https://t.me/proxy?server=46.4.96.48&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=46.4.96.48&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=46.4.96.48&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=195.74.93.115&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=195.74.93.115&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -575,7 +565,6 @@ https://t.me/proxy?server=95.111.209.50&amp;port=443&amp;secret=7k2at-EusFZu03ET
 https://t.me/proxy?server=95.111.209.75&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
 https://t.me/proxy?server=95.111.209.55&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
 https://t.me/proxy?server=95.111.209.50&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
-https://t.me/proxy?server=95.216.82.11&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
 https://t.me/proxy?server=95.216.82.11&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
 https://t.me/proxy?server=95.216.82.16&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
 https://t.me/proxy?server=95.216.106.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add73706c75732e6972
