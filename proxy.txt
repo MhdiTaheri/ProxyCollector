@@ -1,4 +1,3 @@
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.colam-bonaza.sbs.&port=4550&secret=AAAAAAAAAAAAAAAAAAAAAGQ=&@Myporoxy|🇩🇪
 https://t.me/proxy?server=168.119.39.111&amp;port=9443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=168.119.39.111&amp;port=9443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=88.198.12.115&amp;port=9443&amp;secret=ee00000000000000000000000000000000
@@ -527,12 +526,6 @@ https://t.me/proxy?server=178.63.216.128&amp;port=8085&amp;secret=FgMBAgABAAH8Aw
 https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=81.12.52.154&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAAFnb29nbGUuY29t
 https://t.me/proxy?server=87.107.155.154&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAAFnb29nbGUuY29t
-https://t.me/proxy?server=178.63.234.184&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=178.63.236.0&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=88.198.84.225&amp;port=8081&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=178.63.216.128&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.243.9&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -591,6 +584,9 @@ https://t.me/proxy?server=188.40.255.123&amp;port=8443&amp;secret=FgMBAgABAAH8Aw
 https://t.me/proxy?server=148.251.250.63&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.243.11&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.250.62&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=95.111.195.31&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
+https://t.me/proxy?server=94.237.79.4&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
+https://t.me/proxy?server=94.237.79.120&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
 https://t.me/proxy?server=95.111.195.31&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
 https://t.me/proxy?server=94.237.79.4&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
 https://t.me/proxy?server=94.237.79.120&amp;port=443&amp;secret=7k2at-EusFZu03ETY_faiCR3d3cucGNtYWcuY29t
@@ -704,6 +700,13 @@ https://t.me/proxy?server=136.243.115.40&amp;port=8085&amp;secret=FgMBAgABAAH8Aw
 https://t.me/proxy?server=148.251.196.11&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=188.40.167.58&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=195.74.93.115&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=5.9.233.130&amp;port=8075&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=148.251.96.32&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=136.243.115.40&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=148.251.196.11&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=188.40.167.58&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=195.74.93.115&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=195.74.93.116&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=5.9.233.130&amp;port=8075&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=148.251.96.32&amp;port=8443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=136.243.115.40&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
