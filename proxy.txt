@@ -1,14 +1,3 @@
-https://t.me/proxy?server=159.69.150.135&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTP_roto|🇩🇪
-https://t.me/proxy?server=188.40.241.213&port=443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574&@ProxyHagh|🇩🇪
-https://t.me/proxy?server=5.9.231.178&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyhubs|🇩🇪
-https://t.me/proxy?server=188.213.0.30&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|🇷🇴
-https://t.me/proxy?server=89.44.198.164&port=10&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto_tel|🇷🇺
-https://t.me/proxy?server=188.213.0.110&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@V2rayng_Fast|🇷🇴
-https://t.me/proxy?server=159.69.109.204&port=8354&secret=AAAAAAAAAAAAAAAAAAAAACQ=&@v2rayNGNeT|🇩🇪
-https://t.me/proxy?server=49.13.134.157&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxy_kafee|🇩🇪
-https://t.me/proxy?server=167.99.41.181&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f&@alephproxy|🇳🇱
-https://t.me/proxy?server=167.99.41.181&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|🇳🇱
-https://t.me/proxy?server=165.232.91.49&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|🇳🇱
 https://t.me/proxy?server=45.129.86.129&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63QMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=159.223.66.124&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=45.129.86.129&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63QMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
