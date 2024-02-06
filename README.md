@@ -42,3 +42,6 @@ Explore the proxies:
 - [Proxy List](proxy.txt)
 
 Feel free to visit the [Proxy List](proxy.txt) to access the proxies fetched by the script.
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/MhdiTaheri/ProxyCollector.svg?variant=adaptive)](https://starchart.cc/MhdiTaheri/ProxyCollector)
