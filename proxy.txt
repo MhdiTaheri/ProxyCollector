@@ -1,4 +1,5 @@
 https://t.me/proxy?server=188.213.0.55&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@Lion_MTProto|🇷🇴
+https://t.me/proxy?server=91.107.194.187&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@Lion_MTProto|🇮🇷
 https://t.me/proxy?server=116.203.31.155&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|🇩🇪
 https://t.me/proxy?server=172.232.220.168&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|🇺🇸
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.shert-men.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==&@Myporoxy|🇺🇸
@@ -9,9 +10,9 @@ https://t.me/proxy?server=136.243.250.32&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q
 https://t.me/proxy?server=188.40.167.63&port=7585&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyHagh|🇩🇪
 https://t.me/proxy?server=5.9.231.178&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyhubs|🇩🇪
 https://t.me/proxy?server=136.243.235.225&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyhubs|🇩🇪
-https://t.me/proxy?server=195.201.109.31&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|🇩🇪
 https://t.me/proxy?server=116.202.184.254&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto_tel|🇩🇪
 https://t.me/proxy?server=195.201.252.55&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto_tel|🇩🇪
+https://t.me/proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==&@russian_proxy|🇩🇪
 https://t.me/proxy?server=88.99.164.174&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==&@russian_proxy|🇩🇪
 https://t.me/proxy?server=49.13.135.114&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|🇩🇪
 https://t.me/proxy?server=159.69.122.138&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|🇩🇪
@@ -81,6 +82,12 @@ https://t.me/proxy?server=165.227.238.15&amp;port=443&amp;secret=FgMBAgABAAH8AwO
 https://t.me/proxy?server=135.181.199.106&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=88.198.162.95&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=167.235.76.220&amp;port=443&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
+https://t.me/proxy?server=178.63.173.228&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=144.76.243.100&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=178.63.173.228&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=144.76.243.100&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=178.63.173.228&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=144.76.243.100&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=178.63.173.228&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=144.76.243.100&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=178.63.173.228&amp;port=8085&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
@@ -425,12 +432,6 @@ https://t.me/proxy?server=188.40.167.63&amp;port=7585&amp;secret=FgMBAgABAAH8AwO
 https://t.me/proxy?server=188.40.167.63&amp;port=7585&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=188.40.167.63&amp;port=7585&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=188.40.167.63&amp;port=7585&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=brec.amimu.ir&amp;port=858&amp;secret=3RYDAQIAAQAB_AMDhuJMOt0%3D
-https://t.me/proxy?server=brec.amimu.ir&amp;port=652&amp;secret=ee00202039008001000020009000080000646c2e676f6f676c652e636f6dfy
-https://t.me/proxy?server=178.63.234.56&amp;port=2024&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=162.55.9.212&amp;port=2024&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=188.40.170.140&amp;port=8580&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
-https://t.me/proxy?server=178.63.234.60&amp;port=8580&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=brec.amimu.ir&amp;port=858&amp;secret=3RYDAQIAAQAB_AMDhuJMOt0%3D
 https://t.me/proxy?server=brec.amimu.ir&amp;port=652&amp;secret=ee00202039008001000020009000080000646c2e676f6f676c652e636f6dfy
 https://t.me/proxy?server=178.63.234.56&amp;port=2024&amp;secret=FgMBAgABAAH8AwOG4kw63Q==
