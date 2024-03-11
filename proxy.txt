@@ -9,7 +9,8 @@ https://t.me/proxy?server=144.76.99.199&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q=
 https://t.me/proxy?server=188.34.160.18&port=65097&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTP_roto|🇩🇪
 https://t.me/proxy?server=135.181.10.64&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyHagh|🇫🇮
 https://t.me/proxy?server=195.2.81.150&port=2028&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|🇷🇺
-https://t.me/proxy?server=www.fireworkscrazy.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|🇬🇧
+https://t.me/proxy?server=www.fireworkscrazy.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|🇳🇱
+https://t.me/proxy?server=www.centuryply.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|🇳🇱
 https://t.me/proxy?server=135.181.36.239&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxyy|🇫🇮
 https://t.me/proxy?server=195.201.109.56&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==&@russian_proxy|🇩🇪
 https://t.me/proxy?server=95.217.47.81&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==&@russian_proxy|🇫🇮
@@ -22,11 +23,6 @@ https://t.me/proxy?server=152.42.133.79&port=443&secret=dd4a5bc618f9ec539a83b182
 https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d&@alephproxy|🇳🇱
 https://t.me/proxy?server=152.42.133.79&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|🇳🇱
 https://t.me/proxy?server=iran.kala-tehran.ir&port=1223&secret=ee00332089198001000020009070080000646c2e676f6f676c652e636f6d&@ProxyForOpeta|🇫🇮
-https://t.me/proxy?server=78.47.229.149&amp;port=52397&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
-https://t.me/proxy?server=49.12.233.100&amp;port=55832&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
-https://t.me/proxy?server=139.59.178.1&amp;port=56301&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
-https://t.me/proxy?server=157.245.43.54&amp;port=63280&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
-https://t.me/proxy?server=167.172.189.168&amp;port=63280&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
 https://t.me/proxy?server=78.47.229.149&amp;port=52397&amp;secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=49.12.233.100&amp;port=55832&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
 https://t.me/proxy?server=139.59.178.1&amp;port=56301&amp;secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
