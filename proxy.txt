@@ -1,11 +1,8 @@
 https://t.me/proxy?server=136.243.250.33&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@Lion_MTProto|🇩🇪
-https://t.me/proxy?server=78.46.251.181&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|🇩🇪
-https://t.me/proxy?server=65.108.209.154&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|🇫🇮
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.regdal-cats.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==&@Myporoxy|🇷🇴
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.acrtros-barobas.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==&@Myporoxy|🇫🇷
 https://t.me/proxy?server=138.201.123.216&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|🇩🇪
 https://t.me/proxy?server=138.201.56.212&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|🇩🇪
-https://t.me/proxy?server=www.indiahandmade.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@MTP_roto|🇳🇱
+https://t.me/proxy?server=www.indiahandmade.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@MTP_roto|🇬🇧
 https://t.me/proxy?server=135.181.10.64&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyHagh|🇫🇮
 https://t.me/proxy?server=178.63.85.106&port=88&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|🇩🇪
 https://t.me/proxy?server=159.69.62.58&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyDaemi|🇩🇪
