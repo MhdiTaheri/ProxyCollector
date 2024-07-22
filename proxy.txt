@@ -1,5 +1,5 @@
-https://t.me/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|🇩🇪
 https://t.me/proxy?server=116.203.167.81&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@Lion_MTProto|🇩🇪
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.sackfsrd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyMTProto|🇩🇪
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.acrobatic.yachts.&port=9060&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Myporoxy|🇩🇪
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.ir.again_to_fight.everyone.i_am.the_internet.woodfound.mom.&port=1881&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Myporoxy|🇩🇪
 https://t.me/proxy?server=116.203.55.95&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|🇩🇪
@@ -10,6 +10,7 @@ https://t.me/proxy?server=93.114.194.152&port=44443&secret=eeRighJJvXrFGRMCIMJdC
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.sackf0rd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyMTProto_tel|🇩🇪
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|🇳🇱
 https://t.me/proxy?server=&port=&secret=&@ProxyForOpeta|🇺🇸
+https://t.me/proxy?server=152.42.149.198-rangoemi.clinet-chephost.ir&port=2024&secret=7okEtaDO73aMGYM-0QWXd4pkaXNjb3JkLmNvbQ==&@ProxyForOpeta|🇳🇱
 https://t.me/proxy?server=95.169.173.163&amp;port=777&amp;secret=79ea54d21249bd7ac519CQ
 https://t.me/proxy?server=95.169.173.164&amp;port=777&amp;secret=79ea54d21249bd7ac519CQ
 https://t.me/proxy?server=95.169.173.196&amp;port=777&amp;secret=79ea54d21249bd7ac519CQ
