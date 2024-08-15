@@ -1,12 +1,10 @@
 https://t.me/proxy?server=49.13.145.62&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|🇩🇪
-https://t.me/proxy?server=oshin.sahihdorostok.info&port=443&secret=1603010200010001fc030386e24c3add&@Lion_MTProto|🇳🇱
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.fordmostango.bar.&port=6550&secret=eeRigzNJvXrFGRMCIMJdEA&@Myporoxy|🇷🇴
-https://t.me/proxy?server=194.164.33.57&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@MTP_roto|🇬🇧
+https://t.me/proxy?server=116.202.183.158&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@TelMTProto|🇩🇪
+https://t.me/proxy?server=194.164.34.58&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@MTP_roto|🇬🇧
+https://t.me/proxy?server=89.110.81.236&port=443&secret=7HQighJPBNMYVRNB6tdkVw&@MTP_roto|🇳🇱
 https://t.me/proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972&@ProxyHagh|🇫🇮
-https://t.me/proxy?server=89.110.101.191&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|🇳🇱
-https://t.me/proxy?server=89.110.103.101&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|🇳🇱
-https://t.me/proxy?server=212.111.80.24&port=85&secret=7lLIZ9x1mD-vS7N_kdUWTwkt&@V2rayng_Fast|🇳🇱
-https://t.me/proxy?server=212.111.168-55.ir&port=120&secret=7HQighJPBNMYVRNB6tdkVw&@V2rayng_Fast|🇳🇱
+https://t.me/proxy?server=89.110.104.8&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@PinkProxy|🇳🇱
+https://t.me/proxy?server=51.89.230.34&port=555&secret=dde3a32ee14904a728cd979264d18adac6&@V2rayng_Fast|🇬🇧
 https://t.me/proxy?server=&port=&secret=&@proxy_kafee|🇺🇸
 https://t.me/proxy?server=152.42.133.79&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f&@alephproxy|🇳🇱
 https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d&@alephproxy|🇳🇱
@@ -14,6 +12,9 @@ https://t.me/proxy?server=152.42.133.79&port=443&secret=7kpbxhj57FOag7GCDhnKSn9z
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|🇳🇱
 https://t.me/proxy?server=95.169.173.199&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyForOpeta|🇩🇪
 https://t.me/proxy?server=95.169.173.169&port=85&secret=7lLIZ9x1mD-vS7N_kdUWTwkt&@ProxyForOpeta|🇩🇪
+https://t.me/proxy?server=95.169.173.201&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=95.169.173.136&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=95.169.173.170&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=95.169.173.201&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=95.169.173.136&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=95.169.173.170&amp;port=85&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
