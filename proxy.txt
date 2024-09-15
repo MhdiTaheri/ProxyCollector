@@ -436,3 +436,6 @@ https://t.me/proxy?server=195.62.32.215&amp;port=888&amp;secret=eeRighJJvXrFGRMC
 https://t.me/proxy?server=195.62.32.216&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=194.120.230.199&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=195.62.32.215&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=195.62.32.216&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=194.120.230.199&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=195.62.32.215&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
