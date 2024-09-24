@@ -19,10 +19,10 @@ https://t.me/proxy?server=152.42.133.79&port=443&secret=ee4a5bc618f9ec539a83b182
 https://t.me/proxy?server=152.42.133.79&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t&@alephproxy|🇳🇱
 https://t.me/proxy?server=45.15.159.66&port=1&secret=ee100d65580c769f110f712c234c3141687777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|🇳🇱
 https://t.me/proxy?server=77.232.40.156&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@ProxyForOpeta|🇷🇺
-https://t.me/proxy?server=95.169.173.178&amp;port=8443&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=95.169.173.213&amp;port=8443&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=95.169.173.151&amp;port=8443&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=176.65.128.193&amp;port=8443&amp;secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=95.169.173.153&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
+https://t.me/proxy?server=95.169.173.216&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
+https://t.me/proxy?server=95.169.173.216&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
+https://t.me/proxy?server=95.169.173.180&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=95.169.173.153&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=95.169.173.216&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=95.169.173.216&amp;port=85&amp;secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
