@@ -322,6 +322,3 @@ https://t.me/proxy?server=103.161.35.192&amp;port=888&amp;secret=eeRighJJvXrFGRM
 https://t.me/proxy?server=194.120.230.250&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=194.120.230.249&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=103.161.35.192&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=194.120.230.250&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=194.120.230.249&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=103.161.35.192&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
