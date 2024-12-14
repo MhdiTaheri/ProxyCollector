@@ -259,7 +259,6 @@ https://t.me/proxy?server=176.65.131.62&amp;port=8443&amp;secret=eeNEgYdJvXrFGRM
 https://t.me/proxy?server=86.107.178.223&amp;port=23&amp;secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=185.222.28.121&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=176.65.131.62&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=hamrah.kamcal.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -278,9 +277,7 @@ https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXr
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=194.120.230.250&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=194.120.230.249&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=103.161.35.192&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=hamrah.bestlive.ir&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=194.120.230.250&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=194.120.230.249&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=103.161.35.192&amp;port=888&amp;secret=eeRighJJvXrFGRMCIMJdCQ
