@@ -211,3 +211,5 @@ https://t.me/proxy?server=176.65.135.24&amp;port=4045&amp;secret=7gAA8A8Pd__1VV_
 https://t.me/proxy?server=176.65.135.25&amp;port=4045&amp;secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
 https://t.me/proxy?server=176.65.135.24&amp;port=4045&amp;secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
 https://t.me/proxy?server=176.65.135.25&amp;port=4045&amp;secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
+https://t.me/proxy?server=176.65.135.24&amp;port=4045&amp;secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
+https://t.me/proxy?server=176.65.135.25&amp;port=4045&amp;secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
