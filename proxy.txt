@@ -296,10 +296,6 @@ https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT
 https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=95.169.173.250&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=95.169.173.250&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
 https://t.me/proxy?server=185.222.28.17&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
 https://t.me/proxy?server=185.222.28.66&amp;port=8085&amp;secret=telewebion-com-ir-ir-g==
@@ -317,6 +313,10 @@ https://t.me/proxy?server=185.222.28.36&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y
 https://t.me/proxy?server=185.222.28.66&amp;port=8085&amp;secret=telewebion-com-ir-ir-g==
 https://t.me/proxy?server=185.222.28.22&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
 https://t.me/proxy?server=185.222.28.36&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
+https://t.me/proxy?server=185.222.28.66&amp;port=8085&amp;secret=telewebion-com-ir-ir-g==
+https://t.me/proxy?server=185.222.28.22&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
+https://t.me/proxy?server=185.222.28.36&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
+https://t.me/proxy?server=95.217.149.17&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.149.17&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.149.17&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=95.217.149.17&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
