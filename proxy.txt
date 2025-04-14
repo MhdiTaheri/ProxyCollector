@@ -106,12 +106,6 @@ https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_
 https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=185.222.28.167&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
 https://t.me/proxy?server=185.222.28.163&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=185.222.28.82&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=185.222.28.167&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
-https://t.me/proxy?server=185.222.28.163&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=176.65.136.44&amp;port=70&amp;secret=3dd9tD7jch8Py0Ck_2O1zSc%3D
 https://t.me/proxy?server=176.65.136.36&amp;port=70&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=176.65.136.52&amp;port=70&amp;secret=3dd9tD7jch8Py0Ck_2O1zSc%3D
@@ -426,7 +420,6 @@ https://t.me/proxy?server=65.109.153.70&amp;port=443&amp;secret=ee16030102000100
 https://t.me/proxy?server=65.21.213.225&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.21.213.224&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.109.153.69&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
-https://t.me/proxy?server=65.109.153.70&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.21.213.225&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.21.213.224&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add726161682e6972
 https://t.me/proxy?server=65.109.153.69&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
