@@ -34,7 +34,7 @@ def save_proxies_to_file(proxy_list):
 
 if __name__ == "__main__":
     json_urls = [
-        "https://raw.githubusercontent.com/yebekhe/MTProtoCollector/main/proxy/mtproto.json",
+        "",
     ]
     extracted_json_proxies = fetch_proxies_from_json_urls(json_urls)
 
